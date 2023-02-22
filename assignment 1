@@ -1,0 +1,221 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "3ccd2167-5e66-4dd9-83ff-400530f41c65",
+   "metadata": {},
+   "source": [
+    "ques:- who developed python programming language?\n",
+    "ans:- Guido van Rossum"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c227b273-c0c1-4d4b-8b60-41b3a95a08c0",
+   "metadata": {},
+   "source": [
+    "ques:- whivh type of programming does python support?\n",
+    "ans:- object oriented programming, structured programming,functional programming"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3bd20d05-3265-4b2c-9f56-d8d5ace4d5fb",
+   "metadata": {},
+   "source": [
+    "ques:- is python case snsitive when dealing with identifiers?\n",
+    "ans:-yes, case is always significant while dealing with identifiers in python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9c574d5b-4520-4490-a4d0-f0b2f1e89458",
+   "metadata": {},
+   "source": [
+    "ques:-what is the correct extension of the python file?\n",
+    "ans:-'.py' is the correct extension of the python."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6400012f-e2fb-4d89-bca9-65d59ccde6dd",
+   "metadata": {},
+   "source": [
+    "ques:- is python code complied or inrerpreted?\n",
+    "ans:-python code is both complied and interpreted."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5875b047-dff4-4f7a-a49f-30c2aeceb77f",
+   "metadata": {},
+   "source": [
+    "ques:-name a few blocks of code used to define in python language?\n",
+    "ans:- in python to define a block of code we use indentation.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "02a7a9b2-404e-4770-868f-8010f6e826c2",
+   "metadata": {},
+   "source": [
+    "ques:- state a character used to give single line comments in python?\n",
+    "ans:- to write multi line comments in python use the hash characher (#) at the beginning pf the line."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "350af94c-6b40-4ef5-b5fc-bb1b38ff63e2",
+   "metadata": {},
+   "source": [
+    "ques:- mention fumctions which can help us to find the version of python that we are currently working on?\n",
+    "ans:- the function sys.version can help us to find the version of python that we are currently working on."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0a282bf4-e756-4fda-b9f5-ee3fd6843974",
+   "metadata": {},
+   "source": [
+    "ques:- python supports the creation of anonmous functions at runtime,using a construct called?\n",
+    "ans:-lambda"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b187192c-f0ff-4030-97da-951966d038b5",
+   "metadata": {},
+   "source": [
+    "ques:- what does plp stand for python?\n",
+    "ans:- preferred installer program."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2a9ae3fd-7c7a-436e-84f7-32bcf1d54a85",
+   "metadata": {},
+   "source": [
+    "ques:- mention a few built in functions in python?\n",
+    "ans:- the function seed is a function which is present in the random module."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "824fffc3-5fa9-461a-af56-35e3e1a530a1",
+   "metadata": {},
+   "source": [
+    "ques:- what is the maximum possible length of an identifier in python?\n",
+    "ans:- identifiers can be of any length."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "162f2272-878e-4378-bd98-92c6336d6285",
+   "metadata": {},
+   "source": [
+    "ques:- what are the benefits of using python?\n",
+    "ans:-(1) easy to learn and easy to use\n",
+    "(2) improves productivity\n",
+    "(3) interpreted language\n",
+    "(4)open source\n",
+    "(5) easily portable"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f4a0ef41-68f9-44d0-b93b-6e0de3200684",
+   "metadata": {},
+   "source": [
+    "ques:-how is memory managed in python?\n",
+    "ans:- memory in pythin is managed by python private heap space. all python objective and data structures are located in a private heap."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "208ed4db-9c8e-4b08-b5a2-12feeec7e997",
+   "metadata": {},
+   "source": [
+    "ques:- is indentation required in python?\n",
+    "ans:-indentation refers to the space at the beginnig of a code line. where in other programming languages the indentation in code is for readability only, the indentation in python is very important."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7982eda3-a67e-43ba-80fc-1f90d7d2c266",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "68c38b3c-89ee-43fd-b5c7-05a47c0678ee",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "86d5c876-8222-4f0f-b60c-1c972d324ab7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8a1900ef-ca83-4ce3-8c9a-0d52ec4004cd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "15f993db-e54a-43d8-a5a6-4d448eda1be4",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "bfe65671-48f4-41db-9b58-c73a98176735",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8c063097-b6b1-45e1-bb10-3f35ef527f97",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
